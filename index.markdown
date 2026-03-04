@@ -4,3 +4,11 @@
 
 layout: home
 ---
+# About Me
+Hey! I'm a Computer Systems Engineering student at the University of Warwick.
+
+# Projects
+## Java Game Engine
+I spent a while working on a game engine in Java.
+
+The original repository can be found [here](https://Gravity021/Project-Onyx), with the updated repository found [here](https://Gravity021/Project-Onyx-Test2).
