@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Isaac's Portfolio
 ---
 # Hello!
 Hey! I'm a Computer Systems Engineering student at the University of Warwick.
