@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# About Me
 Hey! I'm a Computer Systems Engineering student at the University of Warwick.
 
 # Projects
