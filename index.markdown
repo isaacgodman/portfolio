@@ -8,11 +8,11 @@ title: Isaac's Portfolio
 # Hello!
 Hey! I'm a Computer Systems Engineering student at the University of Warwick.
 
-[About me!](/about)
+[About me!](/portfolio/about)
 
-[Contact me!](/contact)
+[Contact me!](/portfolio/contact)
 
-# [Projects](/projects)
+# [Projects](/portfolio/projects)
 
 ## Java Game Engine
 I spent a while working on a game engine in Java.
